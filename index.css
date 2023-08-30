@@ -46,7 +46,7 @@ nav li {
   background-color: rgb(216, 0, 0);
 }
 tech {
-  color:blue;
+  color:rgb(0, 129, 75);
   font-size: 20px;
 }
 ul {
@@ -62,7 +62,7 @@ ul {
   text-align: center;
 }
 .description{
-  color:green;
+  color:rgb(0, 212, 95);
   font-size: 20px;
 }
 .recap{
